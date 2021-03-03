@@ -1,0 +1,63 @@
+/* styles for my resume */
+
+/*change name and font and size*/
+h1 {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3em;
+}
+
+/*change size for section header*/
+h2 {
+  font-family: "Open Sans, Arial, sans-serif";
+  font-weight: 400;
+  font-size: 1.5em;
+  text-transform:uppercase;
+  color:white;
+  background-color: #33485e;
+}
+
+/*change size and font for job title  */
+h3 {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #444;
+  font-weight:bold;
+  font-size:1.5em;
+  font-weight:600;
+}
+
+}
+/* change size and font for company worked at */
+h4 {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #444;
+  font-weight: 400;
+  font-size:1.5em;
+  font-weight:400;
+}
+/* change size and font for date*/
+h5 {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #444;
+  font-weight: 400;
+  font-size:1em;
+  font-weight:400;
+  font-style: italic;
+}
+
+/*change size and font for unordered lists */
+ul, li {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #444;
+  font-weight: 400;
+  font=-size: 1em;
+}
+
+/* change boldness and color for paragraph text */
+p {
+  font-family: "Open Sans, Arial, sans-serif";
+  color: #444;
+  font-weight: 400;
+}
